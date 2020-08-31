@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Jessica Zosa Forde
+url: "https://jzf2101.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,9 +16,15 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "About "
+   link: ""
+ - name: "CV "
+   link: "jessica_zosa_forde_cv.pdf"
+ - name: "Google Scholar "
+   link: "https://scholar.google.com/citations?user=1k12VDMAAAAJ&hl=en"
+ - name: "GitHub "
+   link: "https://github.com/jzf2101"
+ - name: "Twitter "
+   link: "https://twitter.com/in4dmatics"
+ - name: "LinkedIn "
+   link: "https://www.linkedin.com/in/jessica-forde-4aa30615/"
