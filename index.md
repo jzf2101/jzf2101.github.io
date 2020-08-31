@@ -11,7 +11,7 @@ I believe that the open science movement is important to improving transparency 
 
 Email me at jessica_forde at brown.edu.  
 
-Fun Fact: My [Project Jupyter code](https://jupyter.org/) is in the [GitHub Arctic Code Vault](https://archiveprogram.github.com/) 250 meters underground in a former coal mine in Svalbard, Norway.
+Fun Fact: My [Project Jupyter code](https://jupyter.org/) is in the [GitHub Arctic Code Vault](https://archiveprogram.github.com/), 250 meters underground in a former coal mine in Svalbard, Norway.
 
 ## Selected Publications
 
