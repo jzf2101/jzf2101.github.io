@@ -14,7 +14,7 @@ Fun Fact: My [Project Jupyter code](https://jupyter.org/) is in the [GitHub Arct
 
 ## Selected Publications
 
-1. Forde JZ, Cooper AF, Kwegyir-Aggrey K, De Sa C, Littman M. [Model Selection's Disparate Impact in Real-World Deep Learning Applications.](model_selection_disparate_impact.pdf) Science and Engineering of Deep Learning, ICLR 2021.
+1. Forde JZ*, Cooper AF\*, Kwegyir-Aggrey K, De Sa C, Littman M. [Model Selection's Disparate Impact in Real-World Deep Learning Applications.](model_selection_disparate_impact.pdf) Science and Engineering of Deep Learning, ICLR 2021.
 2. Paganini M, Forde JZ. [Bespoke vs. Prêt-à-Porter Lottery Tickets: Exploiting Mask Similarity for Trainable Sub-Network Finding]( http://arxiv.org/abs/2007.04091). 2020.
 3. Paganini M, Forde JZ. [dagger: A Python Framework for Reproducible Machine Learning Experiment Orchestration](http://arxiv.org/abs/2006.07484). 2020.
 4. Paganini M, Forde J. [Streamlining Tensor and Network Pruning in PyTorch](http://arxiv.org/abs/2004.13770). ML for Developing Countries Workshop, ICLR 2020. *Contributed Talk.*
