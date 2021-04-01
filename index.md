@@ -14,12 +14,12 @@ Fun Fact: My [Project Jupyter code](https://jupyter.org/) is in the [GitHub Arct
 
 ## Selected Publications
 
-1. Forde JZ*, Cooper AF\*, Kwegyir-Aggrey K, De Sa C, Littman M. [Model Selection's Disparate Impact in Real-World Deep Learning Applications.](model_selection_disparate_impact.pdf) Science and Engineering of Deep Learning, ICLR 2021.
+1. Forde JZ\*, Cooper AF\*, Kwegyir-Aggrey K, De Sa C, Littman M. [Model Selection's Disparate Impact in Real-World Deep Learning Applications.](model_selection_disparate_impact.pdf) Science and Engineering of Deep Learning Workshop, ICLR 2021. *Contributed Talk.*
 2. Paganini M, Forde JZ. [Bespoke vs. Prêt-à-Porter Lottery Tickets: Exploiting Mask Similarity for Trainable Sub-Network Finding]( http://arxiv.org/abs/2007.04091). 2020.
 3. Paganini M, Forde JZ. [dagger: A Python Framework for Reproducible Machine Learning Experiment Orchestration](http://arxiv.org/abs/2006.07484). 2020.
 4. Paganini M, Forde J. [Streamlining Tensor and Network Pruning in PyTorch](http://arxiv.org/abs/2004.13770). ML for Developing Countries Workshop, ICLR 2020. *Contributed Talk.*
 5. Paganini M, Forde J. [On Iterative Neural Network Pruning, Reinitialization, and the Similarity of Masks](http://arxiv.org/abs/2001.05050). ML for Developing Countries Workshop, ICLR 2020.
 6. Zech JR, Forde JZ, Littman ML. [Individual predictions matter: Assessing the effect of data ordering in training fine-tuned CNNs for medical imaging](http://arxiv.org/abs/1912.03606). ML for Healthcare Workshop, NeurIPS 2019.
-7. Forde JZ, Paganini M. [The scientific method in the science of machine learning](http://arxiv.org/abs/1904.10922). ML for Healthcare Workshop, NeurIPS 2019.
+7. Forde JZ, Paganini M. [The scientific method in the science of machine learning](http://arxiv.org/abs/1904.10922). Debugging Machine Learning Models Workshop, ICLR 2019. *Contributed Talk*
 8. Forde J, Bussonnier M, Fortin F-A, Granger B, Head T, Holdgraf C, et al. [Reproducing Machine Learning Research on Binder](https://openreview.net/pdf?id=BJlR6KTE3X). 2018.
 9. Project Jupyter, M. Bussonnier, J. Forde, J. Freeman, B. Granger, T. Head, C. Holdgraf, K. Kelley, G. Nalvarte, A. Osheroff,M. Pacer, Y. Panda, F. Perez, B. Ragan-Kelley, and C. Willing. [Binder 2.0-Reproducible, interactive, sharable environments for science at scale](https://conference.scipy.org/proceedings/scipy2018/project_jupyter.html). Scipy. 2018.
